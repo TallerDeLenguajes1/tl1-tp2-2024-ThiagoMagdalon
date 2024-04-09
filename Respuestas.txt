@@ -1,0 +1,3 @@
+Al generar un nuevo branch e implementar las modificaciones al codigo en esta rama, cuando ejecutamos el comando gitk --all se puede ver un registro del historial 
+que se genera de forma independiente en ambas ramas, luego al combinar el historial de la rama especificada (Opcion 2) con la rama actual (ya que habiamos saltado
+nuevamente al main branch with git checkout main
